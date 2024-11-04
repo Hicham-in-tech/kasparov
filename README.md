@@ -37,3 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 "# kasparov" 
 "# kasparov" 
 "# kasparov" 
+"# kasparov"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/Hicham-in-tech/kasparov.git git push -u origin main
